@@ -15,6 +15,7 @@
 <a href="mailto:subhasish@cmi.ac.in">
   <img align="left" alt="Subhasish's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />
 </a>
+<br></br>
 
 ### About me :grinning:
 I'm a postgraduate student currently interested in Gaussian process Regression & Bayesian Optimization. Moreover I also like to explore Algorithmic trading algorithms!

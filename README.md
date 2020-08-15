@@ -37,5 +37,5 @@ I'm a postgraduate student currently interested in Gaussian process Regression &
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Subhasishbasak&show_icons=true&hide_border=true)
 
-:pushpin: Star and Fork this [README](https://github.com/Subhasish/Subhasish) to make similar for yourself :pencil: 
+:pushpin: Star and Fork this [README](https://github.com/Subhasishbasak/Subhasishbasak) to make similar for yourself :pencil: 
 

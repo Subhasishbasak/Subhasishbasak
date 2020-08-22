@@ -18,7 +18,7 @@
 <br></br>
 
 ### About me :grinning:
-I'm a postgraduate student currently interested in Gaussian process regression & Bayesian Optimization. Moreover I also like to explore Automated trading algorithms!
+I'm a postgraduate student currently working on Gaussian process regression & Bayesian Optimization. Moreover I also like to explore Algorithmic trading strategies!
 
 ### Alma mater :mortar_board:
 - Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) '20

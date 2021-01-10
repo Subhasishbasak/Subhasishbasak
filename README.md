@@ -18,7 +18,7 @@
 <br></br>
 
 ### About me :grinning:
-I'm a postgraduate student currently working on Gaussian process regression & Bayesian Optimization. Moreover I also like to explore Algorithmic trading strategies!
+I'm a doctoral student at the Paris-Saclay University, currently working on Gaussian process regression & Bayesian Optimization. My research aims to develop efficient bio-intervention strategies, enhanced process criteria, monitoring and sampling schemes, and an easy-to-use food safety decision support IT tool for participating artisanal food producers.
 
 ### Alma mater :mortar_board:
 - Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) '20

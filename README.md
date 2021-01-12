@@ -1,4 +1,4 @@
-### Bonjour! this is [Subhasish](https://subhasishbasak.github.io/)
+### Hi! this is [Subhasish](https://subhasishbasak.github.io/)
 
 <a href="https://www.linkedin.com/in/subhasish-basak-566015168/">
   <img align="left" alt="Subhasish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

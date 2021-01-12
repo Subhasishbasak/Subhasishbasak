@@ -18,7 +18,7 @@
 <br></br>
 
 ### About me :grinning:
-I'm a doctoral student at the Paris-Saclay University, currently working on Gaussian process regression & Bayesian Optimization. My research aims to develop efficient bio-intervention strategies, enhanced process criteria, monitoring and sampling schemes, and an easy-to-use food safety decision support IT tool for participating artisanal food producers.
+I'm a doctoral student at the Paris-Saclay University, currently working on Gaussian process regression & Bayesian Optimization. My research aims to develop enhanced process criteria and efficient monitoring and sampling schemes for artisanal food producers in the Mediterranean region.
 
 ### Alma mater :mortar_board:
 - Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) '20

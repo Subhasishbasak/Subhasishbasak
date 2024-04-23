@@ -18,11 +18,12 @@
 <br></br>
 
 ### About me :grinning:
-I'm a doctoral student at the Paris-Saclay University, currently working on Gaussian process regression & Bayesian Optimization. My research aims to develop enhanced process criteria and efficient monitoring and sampling schemes for artisanal food producers in the Mediterranean region.
+I work at the French food safety agency [ANSES](https://www.anses.fr/fr) and my research domain includes Quantitative Microbial Risk Assessment (QMRA), Bayesian Optimization (BO) and Anti-Microbial Resistance (AMR).
 
-### Alma mater :mortar_board:
-- Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) '20
-- St. Xaviers College, Kolkata  [SXC](https://www.sxccal.edu/) '18
+### Education :mortar_board:
+- Université Paris-Saclay [UPSay](https://www.universite-paris-saclay.fr/) PhD'24
+- Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) Masters'20
+- St. Xaviers College, Kolkata  [SXC](https://www.sxccal.edu/) Bachelors'18
 
 ### Languages and Tools :rocket:
 
